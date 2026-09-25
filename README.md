@@ -3,7 +3,6 @@
 See the air traffic above your location, live on your Elgato Stream Deck.
 Flight Radar shows the nearest aircraft, a radar view, altitude, speed, country of registration (with flag), low-pass warnings and military aircraft. On a **Stream Deck+** you can zoom, browse aircraft and filter with the dials.
 
-![Flight Radar on a Stream Deck+]
 <img width="1000" height="1000" alt="Stream Deck+ layout (English)@1x" src="https://github.com/user-attachments/assets/9f418ecf-cc78-4686-83cd-e0d00faa3258" />
 
 
